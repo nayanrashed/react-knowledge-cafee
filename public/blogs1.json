@@ -1,0 +1,53 @@
+[
+    {
+      "id": 56789,
+      "cover": "[Link to Cover Image 1]",
+      "title": "The Art of Culinary Delights",
+      "author": "John Smith",
+      "author_img": "[Link to Author Image 1]",
+      "posted_date": "August 28, 2023",
+      "reading_time": 15,
+      "hashtags": ["#Cooking", "#Foodie", "#Recipes"]
+    },
+    {
+      "id": 98765,
+      "cover": "[Link to Cover Image 2]",
+      "title": "Hiking Adventures in the Wilderness",
+      "author": "Emily Johnson",
+      "author_img": "[Link to Author Image 2]",
+      "posted_date": "September 5, 2023",
+      "reading_time": 20,
+      "hashtags": ["#Hiking", "#Nature", "#Adventure"]
+    },
+    {
+      "id": 54321,
+      "cover": "[Link to Cover Image 3]",
+      "title": "Unlocking the Secrets of Ancient History",
+      "author": "David Williams",
+      "author_img": "[Link to Author Image 3]",
+      "posted_date": "September 10, 2023",
+      "reading_time": 12,
+      "hashtags": ["#History", "#Archaeology", "#AncientCivilizations"]
+    },
+    {
+      "id": 24680,
+      "cover": "[Link to Cover Image 4]",
+      "title": "The World of Fashion: Trends and Styles",
+      "author": "Sophia Anderson",
+      "author_img": "[Link to Author Image 4]",
+      "posted_date": "August 20, 2023",
+      "reading_time": 18,
+      "hashtags": ["#Fashion", "#Style", "#Trends"]
+    },
+    {
+      "id": 13579,
+      "cover": "[Link to Cover Image 5]",
+      "title": "Tech Innovations: Shaping the Future",
+      "author": "Michael Brown",
+      "author_img": "[Link to Author Image 5]",
+      "posted_date": "September 8, 2023",
+      "reading_time": 14,
+      "hashtags": ["#Technology", "#Innovation", "#FutureTech"]
+    }
+  ]
+  
